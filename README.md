@@ -9,7 +9,19 @@
 
 ## Web项目常用库
 
+### balloon.css
+
+提示文字类
+
+- GH: [https://github.com/kazzkiq/balloon.css](https://github.com/kazzkiq/balloon.css)
+- DEMO: [https://kazzkiq.github.io/balloon.css/](https://kazzkiq.github.io/balloon.css/)
+
+![](media/15174114755086.jpg)
+
+
 ### loaders.css
+
+加载动画
 
 - GH: [https://github.com/ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css)
 - DEMO: [https://connoratherton.com/loaders](https://connoratherton.com/loaders)
@@ -19,12 +31,22 @@
 
 ### bttn.css
 
+按钮样式
+
 - GH：[https://github.com/ganapativs/bttn.css](https://github.com/ganapativs/bttn.css)
 - DEMO: [https://bttn.surge.sh/](https://bttn.surge.sh/)
 
 ![](media/15174098631961.jpg)
 
 
+### icono
+
+纯css实现的图标，无需引用字体
+
+- GH: [https://github.com/saeedalipoor/icono](https://github.com/saeedalipoor/icono)
+- DEMO: [https://saeedalipoor.github.io/icono/](https://saeedalipoor.github.io/icono/)
+
+![](media/15174117364337.jpg)
 
 
 
