@@ -49,4 +49,22 @@
 ![](media/15174117364337.jpg)
 
 
+### imagehover.css
+
+图片翻转库，hover时样式
+
+- GH:[https://github.com/ciar4n/imagehover.css](https://github.com/ciar4n/imagehover.css)
+- DEMO: [http://imagehover.io/](http://imagehover.io/)
+
+![](media/15174120404157.jpg)
+
+
+### instagram.css
+
+图片滤镜库
+
+- GH: https://github.com/picturepan2/instagram.css
+- DEMO: https://picturepan2.github.io/instagram.css
+
+![](media/15174122230790.jpg)
 
