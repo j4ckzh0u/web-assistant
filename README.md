@@ -11,16 +11,16 @@
 
 ### loaders.css
 
-GH: [https://github.com/ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css)
-DEMO: [https://connoratherton.com/loaders](https://connoratherton.com/loaders)
+- GH: [https://github.com/ConnorAtherton/loaders.css](https://github.com/ConnorAtherton/loaders.css)
+- DEMO: [https://connoratherton.com/loaders](https://connoratherton.com/loaders)
 
 ![](media/15174099249972.jpg)
 
 
 ### bttn.css
 
-GH：[https://github.com/ganapativs/bttn.css](https://github.com/ganapativs/bttn.css)
-DEMO: [https://bttn.surge.sh/](https://bttn.surge.sh/)
+- GH：[https://github.com/ganapativs/bttn.css](https://github.com/ganapativs/bttn.css)
+- DEMO: [https://bttn.surge.sh/](https://bttn.surge.sh/)
 
 ![](media/15174098631961.jpg)
 
