@@ -68,7 +68,7 @@
 
 ![](media/15174122230790.jpg)
 
-## css-loader
+### css-loader
 
 css实现的加载动画
 
@@ -76,5 +76,14 @@ css实现的加载动画
 - DEMO: http://raphaelfabeni.github.io/css-loader
 
 ![](media/15174124566269.jpg)
+
+### text-spinners
+
+加载动画
+
+- GH: https://github.com/maxbeier/text-spinners
+- DEMO: https://maxbeier.github.io/text-spinners
+
+![](media/15174126813620.jpg)
 
 
